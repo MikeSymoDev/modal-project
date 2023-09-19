@@ -6,6 +6,7 @@
             <slot></slot>
             <div class="actions">
               <slot name="links"></slot>
+              <slot name="biggy"></slot>
             </div>
         </div>
     </div>
